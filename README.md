@@ -9,7 +9,7 @@ Name: bissentayev Madiyar
 ### Task 1. Selectors & CSS
 The home section has my name, a headline, a short intro and the title "Welcome to My Portfolio".  Two buttons switch between the light and the dark theme.
 
-![Task 1](screenshots/task1.png)
+![alt text](screenshots/task1.png)
 
 ## Part 2. jQuery Effects
 
