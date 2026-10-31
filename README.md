@@ -4,12 +4,7 @@ Name: bissentayev Madiyar
 
 
 
-## Part 1. Getting Started with jQuery
 
-### Task 0. Setup
-jQuery is connected from a CDN. The code is inside, and the console shows "jQuery is ready!".
-
-![Task 0](screenshots/task0.png)
 
 ### Task 1. Selectors & CSS
 The home section has my name, a headline, a short intro and the title "Welcome to My Portfolio".  Two buttons switch between the light and the dark theme.
