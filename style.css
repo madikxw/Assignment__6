@@ -1,14 +1,13 @@
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
   background: white;
   color: black;
+
 }
 
 main {
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 10px;
 }
 
 section {
