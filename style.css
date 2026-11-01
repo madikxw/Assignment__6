@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: white;
+  color: black;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+section {
+  padding: 20px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+h2 {
+  color: green;
+}
+
+img {
+  width: 150px;
+  margin-right: 10px;
+}
+
+.head {
+  background: #e6f4ea;
+  color: black;
+  padding: 8px;
+  margin-bottom: 0;
+  cursor: pointer;
+}
+
+.box {
+  display: none;
+  padding: 10px;
+}
+
+#error {
+  color: red;
+}
+
+.track {
+  width: 300px;
+  background: #ddd;
+}
+
+.fill {
+  width: 0;
+  height: 18px;
+  background: green;
+}
